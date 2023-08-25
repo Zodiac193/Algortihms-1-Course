@@ -1,2 +1,1 @@
-# Algortihms-1-Course 
-# Coursera 
+Algorithms 1 
