@@ -1,2 +1,1 @@
-for i in range(222):
-    print("hi")
+#write the implementation of Quick Find
